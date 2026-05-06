@@ -1,0 +1,8 @@
+Introduction
+
+In many institutions, students and staff often need information about laboratories such as infrastructure and availability. Traditionally, this requires asking lab assistants or checking manually, which is time-consuming.
+This project aims to solve this problem by:
+Providing instant lab details
+Reducing manual effort
+Improving accessibility of lab data
+The system is implemented using C++, making it lightweight and easy to run on any system.
